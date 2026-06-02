@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/antasdev/Daily-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/antasdev/Daily-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/antasdev/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/antasdev/Daily-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/antasdev/Daily-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0938-range-sum-of-bst) |
 | [1382-balance-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Greedy
@@ -84,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/antasdev/Daily-Leetcode/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Divide and Conquer
 |  |
 | ------- |
