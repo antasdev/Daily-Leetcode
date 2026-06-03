@@ -114,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/antasdev/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
