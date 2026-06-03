@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/antasdev/Daily-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2126-destroying-asteroids](https://github.com/antasdev/Daily-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/antasdev/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/antasdev/Daily-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/antasdev/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/antasdev/Daily-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 <!---LeetCode Topics End-->
