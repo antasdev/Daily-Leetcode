@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0704-binary-search](https://github.com/antasdev/Daily-Leetcode/tree/master/0704-binary-search) |
 | [1672-richest-customer-wealth](https://github.com/antasdev/Daily-Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/antasdev/Daily-Leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/antasdev/Daily-Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 ## Stack
