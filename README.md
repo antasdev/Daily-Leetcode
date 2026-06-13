@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/antasdev/Daily-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/antasdev/Daily-Leetcode/tree/master/1672-richest-customer-wealth) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/antasdev/Daily-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2126-destroying-asteroids](https://github.com/antasdev/Daily-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/antasdev/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/antasdev/Daily-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/antasdev/Daily-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/antasdev/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/antasdev/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/antasdev/Daily-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/antasdev/Daily-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 ## Recursion
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/antasdev/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/antasdev/Daily-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2974-minimum-number-game](https://github.com/antasdev/Daily-Leetcode/tree/master/2974-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
