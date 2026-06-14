@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/antasdev/Daily-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/antasdev/Daily-Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1816-truncate-sentence](https://github.com/antasdev/Daily-Leetcode/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/antasdev/Daily-Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/antasdev/Daily-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/antasdev/Daily-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/antasdev/Daily-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/antasdev/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/antasdev/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1816-truncate-sentence](https://github.com/antasdev/Daily-Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antasdev/Daily-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/antasdev/Daily-Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/antasdev/Daily-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
