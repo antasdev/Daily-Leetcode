@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antasdev/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0485-max-consecutive-ones](https://github.com/antasdev/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/antasdev/Daily-Leetcode/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/antasdev/Daily-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
