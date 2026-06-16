@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/antasdev/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/antasdev/Daily-Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/antasdev/Daily-Leetcode/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/antasdev/Daily-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/antasdev/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/antasdev/Daily-Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/antasdev/Daily-Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0268-missing-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/antasdev/Daily-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/antasdev/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/antasdev/Daily-Leetcode/tree/master/2974-minimum-number-game) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/antasdev/Daily-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/antasdev/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/antasdev/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
