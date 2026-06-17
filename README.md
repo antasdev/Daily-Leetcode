@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/antasdev/Daily-Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0392-is-subsequence](https://github.com/antasdev/Daily-Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/antasdev/Daily-Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/antasdev/Daily-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/antasdev/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/antasdev/Daily-Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/antasdev/Daily-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/antasdev/Daily-Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/antasdev/Daily-Leetcode/tree/master/0771-jewels-and-stones) |
