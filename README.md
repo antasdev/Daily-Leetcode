@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/antasdev/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/antasdev/Daily-Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/antasdev/Daily-Leetcode/tree/master/0724-find-pivot-index) |
+| [0896-monotonic-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
