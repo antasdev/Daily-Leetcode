@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/antasdev/Daily-Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/antasdev/Daily-Leetcode/tree/master/0724-find-pivot-index) |
 | [0941-valid-mountain-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0941-valid-mountain-array) |
+| [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/antasdev/Daily-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [2126-destroying-asteroids](https://github.com/antasdev/Daily-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/antasdev/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/antasdev/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/antasdev/Daily-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/antasdev/Daily-Leetcode/tree/master/0389-find-the-difference) |
+| [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2126-destroying-asteroids](https://github.com/antasdev/Daily-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/antasdev/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/antasdev/Daily-Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0509-fibonacci-number) |
+| [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
 ## String
