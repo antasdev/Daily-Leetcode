@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/antasdev/Daily-Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/antasdev/Daily-Leetcode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0394-decode-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/antasdev/Daily-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/antasdev/Daily-Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/antasdev/Daily-Leetcode/tree/master/0771-jewels-and-stones) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/antasdev/Daily-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/antasdev/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/antasdev/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/antasdev/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Memoization
