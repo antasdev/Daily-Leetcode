@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/antasdev/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/antasdev/Daily-Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/antasdev/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/antasdev/Daily-Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/antasdev/Daily-Leetcode/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/antasdev/Daily-Leetcode/tree/master/0724-find-pivot-index) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/antasdev/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/antasdev/Daily-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/antasdev/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/antasdev/Daily-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/antasdev/Daily-Leetcode/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/antasdev/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/antasdev/Daily-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/antasdev/Daily-Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/antasdev/Daily-Leetcode/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/antasdev/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/antasdev/Daily-Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/antasdev/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
