@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/antasdev/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/antasdev/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/antasdev/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/antasdev/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/antasdev/Daily-Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/antasdev/Daily-Leetcode/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antasdev/Daily-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/antasdev/Daily-Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/antasdev/Daily-Leetcode/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/antasdev/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antasdev/Daily-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Stack
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/antasdev/Daily-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/antasdev/Daily-Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/antasdev/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Trie
 |  |
