@@ -4,8 +4,8 @@
  * @return {number}
  */
 var rearrangeCharacters = function(s, target) {
-    let sCount = {};
-    let targetCount = {};
+    let sCount={};
+    let targetCount={};
 
     for (let ch of s) {
         sCount[ch]=(sCount[ch]||0)+1;
@@ -15,7 +15,7 @@ var rearrangeCharacters = function(s, target) {
         targetCount[ch]=(targetCount[ch] || 0)+1;
     }
 
-    let answer=1000;
+    let answer=Infinity;
 
     for (let ch in targetCount) {
         answer=Math.min(
