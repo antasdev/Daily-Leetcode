@@ -45,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/antasdev/Daily-Leetcode/tree/master/2974-minimum-number-game) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/antasdev/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3701-compute-alternating-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/antasdev/Daily-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/antasdev/Daily-Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/antasdev/Daily-Leetcode/tree/master/1672-richest-customer-wealth) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/antasdev/Daily-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Tree
 |  |
 | ------- |
@@ -358,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/antasdev/Daily-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/antasdev/Daily-Leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
