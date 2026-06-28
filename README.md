@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/antasdev/Daily-Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/antasdev/Daily-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3945-digit-frequency-score](https://github.com/antasdev/Daily-Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
 | ------- |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antasdev/Daily-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/antasdev/Daily-Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3945-digit-frequency-score](https://github.com/antasdev/Daily-Leetcode/tree/master/3945-digit-frequency-score) |
 ## Stack
 |  |
 | ------- |
