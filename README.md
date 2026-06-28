@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/antasdev/Daily-Leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/antasdev/Daily-Leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/antasdev/Daily-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
+| [3110-score-of-a-string](https://github.com/antasdev/Daily-Leetcode/tree/master/3110-score-of-a-string) |
 ## Recursion
 |  |
 | ------- |
