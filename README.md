@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0941-valid-mountain-array) |
 | [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1002-find-common-characters](https://github.com/antasdev/Daily-Leetcode/tree/master/1002-find-common-characters) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/antasdev/Daily-Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/antasdev/Daily-Leetcode/tree/master/1470-shuffle-the-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/antasdev/Daily-Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/antasdev/Daily-Leetcode/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/antasdev/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
+| [1002-find-common-characters](https://github.com/antasdev/Daily-Leetcode/tree/master/1002-find-common-characters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/antasdev/Daily-Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/antasdev/Daily-Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/antasdev/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/antasdev/Daily-Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/antasdev/Daily-Leetcode/tree/master/0771-jewels-and-stones) |
+| [1002-find-common-characters](https://github.com/antasdev/Daily-Leetcode/tree/master/1002-find-common-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/antasdev/Daily-Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/antasdev/Daily-Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
