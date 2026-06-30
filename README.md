@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/antasdev/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/antasdev/Daily-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2974-minimum-number-game](https://github.com/antasdev/Daily-Leetcode/tree/master/2974-minimum-number-game) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/antasdev/Daily-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/antasdev/Daily-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/antasdev/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3701-compute-alternating-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2769-find-the-maximum-achievable-number](https://github.com/antasdev/Daily-Leetcode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/antasdev/Daily-Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/antasdev/Daily-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/antasdev/Daily-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3945-digit-frequency-score](https://github.com/antasdev/Daily-Leetcode/tree/master/3945-digit-frequency-score) |
 ## String
