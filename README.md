@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/antasdev/Daily-Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2974-minimum-number-game](https://github.com/antasdev/Daily-Leetcode/tree/master/2974-minimum-number-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/antasdev/Daily-Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/antasdev/Daily-Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/antasdev/Daily-Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/antasdev/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3701-compute-alternating-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/antasdev/Daily-Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/antasdev/Daily-Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2974-minimum-number-game](https://github.com/antasdev/Daily-Leetcode/tree/master/2974-minimum-number-game) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/antasdev/Daily-Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/antasdev/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Breadth-First Search
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/antasdev/Daily-Leetcode/tree/master/1768-merge-strings-alternately) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/antasdev/Daily-Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/antasdev/Daily-Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Math
 |  |
