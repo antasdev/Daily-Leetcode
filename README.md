@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/antasdev/Daily-Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/antasdev/Daily-Leetcode/tree/master/1534-count-good-triplets) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/antasdev/Daily-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/antasdev/Daily-Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/antasdev/Daily-Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/antasdev/Daily-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/antasdev/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1382-balance-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/1382-balance-a-binary-search-tree) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/antasdev/Daily-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/antasdev/Daily-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/antasdev/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/antasdev/Daily-Leetcode/tree/master/2126-destroying-asteroids) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/antasdev/Daily-Leetcode/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/antasdev/Daily-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1833-maximum-ice-cream-bars](https://github.com/antasdev/Daily-Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/antasdev/Daily-Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2126-destroying-asteroids](https://github.com/antasdev/Daily-Leetcode/tree/master/2126-destroying-asteroids) |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/antasdev/Daily-Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/antasdev/Daily-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2235-add-two-integers](https://github.com/antasdev/Daily-Leetcode/tree/master/2235-add-two-integers) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/antasdev/Daily-Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/antasdev/Daily-Leetcode/tree/master/2652-sum-multiples) |
@@ -428,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-construct-smallest-number-from-di-string](https://github.com/antasdev/Daily-Leetcode/tree/master/2375-construct-smallest-number-from-di-string) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/antasdev/Daily-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
