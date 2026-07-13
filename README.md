@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/antasdev/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/antasdev/Daily-Leetcode/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/antasdev/Daily-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/antasdev/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/antasdev/Daily-Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/antasdev/Daily-Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/antasdev/Daily-Leetcode/tree/master/0141-linked-list-cycle) |
