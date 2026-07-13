@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/antasdev/Daily-Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/antasdev/Daily-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/antasdev/Daily-Leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/antasdev/Daily-Leetcode/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/antasdev/Daily-Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/antasdev/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/antasdev/Daily-Leetcode/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
