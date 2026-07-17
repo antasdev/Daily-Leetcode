@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/antasdev/Daily-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/antasdev/Daily-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/antasdev/Daily-Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/antasdev/Daily-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/antasdev/Daily-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/antasdev/Daily-Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/antasdev/Daily-Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/antasdev/Daily-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/antasdev/Daily-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/antasdev/Daily-Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/antasdev/Daily-Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/antasdev/Daily-Leetcode/tree/master/0404-sum-of-left-leaves) |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/antasdev/Daily-Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/antasdev/Daily-Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/antasdev/Daily-Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/antasdev/Daily-Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0394-decode-string) |
 | [0739-daily-temperatures](https://github.com/antasdev/Daily-Leetcode/tree/master/0739-daily-temperatures) |
