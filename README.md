@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/antasdev/Daily-Leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/antasdev/Daily-Leetcode/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/0258-add-digits) |
 | [0844-backspace-string-compare](https://github.com/antasdev/Daily-Leetcode/tree/master/0844-backspace-string-compare) |
 | [1389-create-target-array-in-the-given-order](https://github.com/antasdev/Daily-Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/antasdev/Daily-Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -471,4 +473,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/antasdev/Daily-Leetcode/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
