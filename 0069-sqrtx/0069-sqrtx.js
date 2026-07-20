@@ -23,5 +23,5 @@ var mySqrt = function(x) {
     // return ans
 let ans= x**0.5
 
-    return Math.floor(ans,1)
+    return Math.floor(ans)
 };
