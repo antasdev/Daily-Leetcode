@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/antasdev/Daily-Leetcode/tree/master/0367-valid-perfect-square) |
+| [0507-perfect-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/antasdev/Daily-Leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
