@@ -283,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/antasdev/Daily-Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/antasdev/Daily-Leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/antasdev/Daily-Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/antasdev/Daily-Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/antasdev/Daily-Leetcode/tree/master/0367-valid-perfect-square) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/antasdev/Daily-Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/antasdev/Daily-Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/antasdev/Daily-Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/antasdev/Daily-Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/antasdev/Daily-Leetcode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0509-fibonacci-number) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/antasdev/Daily-Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/antasdev/Daily-Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/antasdev/Daily-Leetcode/tree/master/0389-find-the-difference) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/antasdev/Daily-Leetcode/tree/master/1684-count-the-number-of-consistent-strings) |
